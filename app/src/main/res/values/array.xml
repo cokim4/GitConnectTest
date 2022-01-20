@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itemList">
+        <item>타입</item>
+        <item>강철</item>
+        <item>격투</item>
+        <item>고스트</item>
+        <item>노말</item>
+        <item>독</item>
+        <item>드래곤</item>
+        <item>땅</item>
+        <item>물</item>
+        <item>바위</item>
+        <item>벌레</item>
+        <item>불꽃</item>
+        <item>비행</item>
+        <item>악</item>
+        <item>얼음</item>
+        <item>에스퍼</item>
+        <item>전기</item>
+        <item>페어리</item>
+        <item>풀</item>
+    </string-array>
+</resources>

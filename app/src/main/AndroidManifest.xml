@@ -10,7 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".MainActivity2"
+            android:name=".Egggroup"
+            android:exported="false" />
+        <activity
+            android:name=".Characteristic"
+            android:exported="false" />
+        <activity
+            android:name=".PokeList"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
